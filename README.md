@@ -1,0 +1,14 @@
+# sys_mssi_mid1108_ms_64-user 14 UP1A.231005.007 mp1V814 release-keys
+- manufacturer: onn
+- platform: common
+- codename: mid1108_ms_64
+- flavor: sys_mssi_mid1108_ms_64-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: qyh20241207
+- tags: release-keys
+- fingerprint: onn/100110027/mid1108_ms_64:14/UP1A.231005.007/qyh20241207:user/release-keys
+- is_ab: true
+- brand: onn
+- branch: sys_mssi_mid1108_ms_64-user-14-UP1A.231005.007-mp1V814-release-keys
+- repo: onn_mid1108_ms_64_dump
